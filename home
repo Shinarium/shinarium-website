@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Shinascan. Shinarium network explorer ; Shinarium bridge ; Shinarium Projects. The Shinarium ecosystem ; Shinarium Music streaming ; Shinarium Wallet. Dex ; NFT Marketplace ; Stake and Farm Shinarium with the integration of Shinarium globally accepted VISA debit and credit card.">
+    <!-- SITE TITLE -->
+    <link rel="icon" href="07/Shinariumapp.png" type="image/x-icon">                                                                                                           
+    <title>Shinarium | Blockchain for business</title>
+    <!-- Favicon Icon -->
+    <link rel="shortcut icon" type="image/x-icon" href="07/Shinariumapp.png">
+    <!-- Animation CSS -->
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <!-- Latest Bootstrap min CSS -->
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="assets/css/ionicons.min.css">
+
+    <!--- owl carousel CSS-->
+    <link rel="stylesheet" href="assets/owlcarousel/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/owlcarousel/css/owl.theme.css">
+    <!-- Magnific Popup CSS -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="stylesheet" href="patching.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+    <!-- Color CSS -->
+    <link rel="stylesheet" href="assets/color/theme.css">
+    <!-- <link rel="stylesheet" href="patching.css"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="07/logo.png">
+    <link rel="stylesheet" 
+href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" 
+integrity="sha384- 
+ B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" 
+  crossorigin="anonymous">
+</head>
+
+<body class="v_light" data-spy="scroll" data-offset="110">
+
+    <!-- LOADER -->
+    <div class="preloader">
+        <div id="g-spinner" class="loading">
+            <div class="circle c1"></div>
+            <div class="circle c2"></div>
+            <div class="circle c3"></div>
+            <div class="circle c4"></div>
+        </div>
+    </div>
+    <!-- END LOADER -->
+
+    <!-- START HEADER -->
+    <header class="header_wrap ">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg">
+                <a class="navbar-brand page-scroll animation" href="#home" data-animation="fadeInLeft" data-animation-delay="0.8s">
+                    <img class="logo_light" src="07/shinariumlight.png" alt="logo" />
+                    <img class="logo_dark" style="width:250px;" src="07/Group 1659.png" alt="logo" />
+                </a>
+                <button class="navbar-toggler animation" data-animation="fadeInRight" data-animation-delay="1.2s" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="ion-android-menu"></span> </button>
+
+                <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                    <ul class="navbar-nav animation" data-animation="fadeInDown" data-animation-delay="1.2s">
+
+                        <li><a class="nav-link page-scroll" href="#road_map">Road Map</a></li>
+                        <li><a class="nav-link page-scroll" href="#how_it_work">About</a></li>
+                        
+                    </ul>
+                    <ul class="navbar-nav nav_btn animation" data-animation="fadeInRight" data-animation-delay="1.6s">
+                        <li><a class="btn btn-default" href="https://docs.shinarium.com/welcome-to-shinarium-whitepaper/obtain-usdshina-token">Presale</a></li>
+                        <li><a class="nav-link page-scroll btn btn-default" href="https://docs.shinarium.com/wallet/wallet-overview/creating-a-wallet-account">Connect to Wallet</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!-- START HEADER -->
+
+    <!-- START SECTION BANNER -->
+    <section id="home" class="banner_section section_light_bg">
+        <div id="banner_bg_effect" class="banner_effect"></div>
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12 col-sm-12 order-lg-first text_md_center">
+                    <div class="banner_text">
+                        <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.5s"><span>Shinarium</span> Smart Chain</h1>
+                        <h3 class="animation" data-animation="fadeInUp" data-animation-delay="1.6s">Shinarium is the fastest growing blockchain with business focused developments.</h3>
+                        <h3 class="animation" data-animation="fadeInUp" data-animation-delay="1.6s">HOLD 20,000+ $SHINA TOKEN, GET NFT rewards.</h3>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="1.7s">Get your globally accepted Visa Credit Card to facilitate withdrawals directly from your $SHINA web-3 enabled web, mobile, extension wallet applications.</p>
+                        <div class="banner_btn animation" data-animation="fadeInUp" data-animation-delay="1.8s">
+                            <a href="https://docs.shinarium.com/developer-guide-on-shinarium/developer-overview/build-a-dapp-in-minutes" class="btn btn-default page-scroll nav-link">Build On Shinarium <i class="ion-ios-arrow-thin-right"></i></a>
+                            <a href="https://music.shinarium.com/" class="btn btn-warning">Launch Music<i class="ion-ios-arrow-thin-right"></i></a> </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-sm-12 order-first">
+                    <div class="banner_image_right res_md_mb_50 res_xs_mb_30 animation hue-shift" data-animation="fadeInRight" data-animation-delay="1.5s">
+                        <img src="07/SCR21.png" alt="banner_vector" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section_wave" style="background-image:url('assets/images/banner_wave.png');"></div>
+    </section>
+    <!-- END SECTION BANNER -->
+
+    <!-- START SECTION HOW IT WORK -->
+    <section id="how_it_work" class="how_work" data-parallax="scroll" data-image-src="">
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="title_dark">
+                        <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.1s">About Shinarium</h2>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Shinarium is an EVM-Compartible Blockchain enabling users earn through DEX, NFT Marketplace, Musicverse, SocialFi, Chat, Cross-Chain, Blockchain for business. Smart contract security audited here:</p>
+                    </div>
+                    <a href="https://shinarium.com/NFT.html" class="btn btn-default page-scroll animation mb-2" data-animation="fadeInUp" data-animation-delay="0.3s">NFT Marketplace<i class="ion-ios-arrow-thin-right"></i></a> </div>
+                    <div class="col-lg-7 col-md-12 col-sm-12" >
+            
+                        <div class="work_box animation" data-animation="fadeInUp" data-animation-delay="0.5s">
+                            <div class="box_inner" style="background: #FFC2241A;" > 
+                                <h4>EVM-Compartible</h4>
+                                <p>Easily transfer all ethereum assets to Shinarium, with just one-click you can start enjoying all it's language and tools with lower fees.</p>
+                            </div>
+                        </div>
+                        <div class="work_box animation" data-animation="fadeInUp" data-animation-delay="0.6s">
+                            <div class="box_inner" style="background: #FB61651A;"> 
+                                <h4>Security, Scalability and Speed.</h4>
+                                <p>Shinarium is the fastest, throughput EVM smart chain platform, digital assets and dApps, with the required security, reliability and speed.</p>
+                            </div>
+                        </div>
+                        <div class="work_box animation" data-animation="fadeInUp" data-animation-delay="0.6s">
+                            <div class="box_inner" style="background: #3C91E61A;" > 
+                                <h4>Build fast, low cost, always earn</h4>
+                                <p>Launch dApps that process transaction super fast with the blockchain that works, while you also enjoy the lowest fee and great ways to earn.</p>
+                            </div>
+                        </div>
+                    </div>
+            
+                    </div>
+                    <div class="shape shap1"></div>
+        </div>
+        <div class="shape shap1"></div>
+    </section>
+
+
+
+    <section class="client_logo">
+        <div class="container hidden">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <div class="title_dark">
+                        <span class="animation" data-animation="fadeInUp" data-animation-delay="0.1s">Technology Partners</span>
+                        <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center text_md_center ">
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        
+                            <img src="07/1644016384474.png" alt="client_logo1" class="drive" />
+
+                       
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        
+                            <img src="07/binancelogo.png" alt="client_logo2" class="drive1" />
+                        
+                    </div>
+                </div>
+                <!-- hhhsxhhhx -->
+
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        
+                            <img src="07/openzeppelin.png" alt="client_logo2" class="drive2" />
+                       
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        
+                            <img src="07/PicsArt_02-05-12.29.37.png" alt="client_logo1" class="drive3" />
+
+                      
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        
+                            <img src="07/kyber.png" alt="client_logo1" class="drive4" />
+
+                        
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        
+                            <img src="07/ethereumlogo.png" alt="client_logo1" class="drive5" />
+                    </div>
+                </div>
+
+                
+               
+            </div>
+            
+        </div>
+        <div class="rounded_shape light_rounded_shape1"></div>
+    </section>
+
+
+    
+    <!-- END SECTION HOW IT WORK -->
+<section class=" bg-light" id="team">
+    <div class="container">
+        <div class="row text-center justify-content-center">
+            <!--text-member-->
+            <div class="col-md-6 col-lg-3">
+                <div style="border:none;" class="card">
+                    <div class="">
+                        
+                        <h6  style="font-size: 14px;background-color: #000000;"  class=" card-header   text-white font-weight-bold mb-2 text-capitalize">SWAP</h6>
+                            <h4  class=" card-title">Swap $SHINA-ETH</h4> 
+                                <p class="font-weight-bold card-text">Soon </p>
+                            
+<!-- startr of notif pop section-->
+                                <button type="button"  class="btn btn-dark btn-sm  d-block mx-auto my-3" data-toggle="modal" data-target="#modal1">Stake $SHINA</button>
+                                <button type="button"  class="btn btn-dark btn-sm  d-block mx-auto my-3" data-toggle="modal" data-target="#modal1">Unstake $SHINA</button>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Weak-hand Selling fee is not constant. Fees are automatically distributed to all current stakers.</p>
+
+                        <!--modal-->
+                        <div style=""  class='modal fade ' id="modal1" data-backdrop="false">
+                            <div  class="modal-dialog">
+                                <div class='modal-content'>
+                                    <!--modal header-->
+                                    <div class='btn-dark modal-header'>
+                                        <h3 style="font-size:20px;" class="text-white modal-title">LIVE PLATFORM SOON - $SHINA</h3>
+                                        <a  type="button" style="color:red"  class='close' data-dismiss="modal">&times;</a>
+                                    </div>
+                                    <!--modal body-->
+                                    <div class="modal-body">
+                                        <p class="font-weight-bold">Staking - High APY - Borrow - Vote</p>
+                                        <img style="width:20%" src="07/Shinariumapp.png">
+                                    </div>
+                                    <!--modal footer-->
+                                    <div class='d-md-none modal-footer'>
+                                        <a type="button" style="color:red" class="btn btn-dark" data-dismiss="modal">Close</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div style="border:none;" class="card">
+                    <div class="">
+                        <h6 style="font-size:14px;background-color: #000000;"  class=" card-header   text-white font-weight-bold mb-2 text-capitalize">STAKE</h6>
+                            <h4 class="card-title">Stake ETH-$SHINA-LP</h4> 
+                                <p class="font-weight-bold card-text">Soon </p>
+<!-- startr of notif pop section-->
+                                <button type="button"  class="btn btn-dark btn-sm  d-block mx-auto my-3" data-toggle="modal" data-target="#modal1">Select Other Asset</button>
+                                <button type="button"  class="btn btn-dark btn-sm  d-block mx-auto my-3" data-toggle="modal" data-target="#modal1">Unstake Token</button>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Weak-hand Selling fee is not constant. Fees are automatically distributed to all current stakers.</p>
+
+                        <!--modal-->
+                        <div style=""  class='modal fade ' id="modal1" data-backdrop="false">
+                            <div  class="modal-dialog">
+                                <div class='modal-content'>
+                                    <!--modal header-->
+                                    <div class='btn-dark modal-header'>
+                                        <h3 style="font-size:20px;" class="text-white modal-title">LIVE PLATFORM SOON - $SHINA</h3>
+                                        <a  type="button" style="color:red"  class='close' data-dismiss="modal">&times;</a>
+                                    </div>
+                                    <!--modal body-->
+                                    <div class="modal-body">
+                                        <p class="font-weight-bold">Staking - High APY - Borrow - Vote</p>
+                                        <img style="width:20%" src="07/Shinariumapp.png">
+                                    </div>
+                                    <!--modal footer-->
+                                    <div class='d-md-none modal-footer'>
+                                        <a type="button" style="color:red" class="btn btn-dark" data-dismiss="modal">Close</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div style="border:none;" class="card">
+                    <div class="">
+                        <h6 style="font-size:14px;background-color: #000000;"  class=" card-header   text-white font-weight-bold mb-2 text-capitalize">BORROW</h6>
+                            <h4 class="card-title">Select the asset:</h4> 
+                                <p class="font-weight-bold card-text">Soon </p><!-- startr of notif pop section-->
+                                <button type="button" class="btn btn-danger d-block mx-auto my-3" data-toggle="modal" data-target="#modal2">Borrow Asset</button>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Weak-hand Selling fee is not constant. Fees are automatically distributed to all current stakers.</p>
+
+                        <!--modal-->
+                        <div   class='modal fade ' id="modal2" data-backdrop="false">
+                            <div  class="modal-dialog">
+                                <div class='modal-content'>
+                                    <!--modal header-->
+                                    <div class='btn-dark modal-header'>
+                                        <h3 style="font-size:20px;" class="text-white modal-title">LIVE PLATFORM SOON - $SHINA</h3>
+                                        <a type="button" style="color:red" class='close' data-dismiss="modal">&times;</a>
+                                    </div>
+                                    <!--modal body-->
+                                    <div class="modal-body">
+                                        <p class="font-weight-bold">Staking - High APY - Borrow - Vote</p>
+                                        <img style="width:20%" src="07/Shinariumapp.png">
+                                    </div>
+                                    <!--modal footer-->
+                                    <div class='d-md-none modal-footer'>
+                                        <a type="button" style="color:red"  class="btn btn-dark" data-dismiss="modal">Close</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div style="border:none;" class="card">
+                    <div class="">
+                        <h6  style="font-size:14px;background-color: #000000;" class=" card-header   text-white font-weight-bold mb-2 text-capitalize">VOTE</h6>
+                            <h4 class="card-title">Pancakeswap-$SHINA-LP Balance:</h4> 
+                                <p class="font-weight-bold card-text">Soon </p>
+<!-- startr of notif pop section-->
+                                <button type="button" class="btn btn-danger d-block mx-auto my-3" data-toggle="modal" data-target="#modal3">VOTE </button>
+                                <p class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Weak-hand Selling fee is not constant. Fees are automatically distributed to all current stakers.</p>
+
+                        <!--modal-->
+                        <div   class='modal fade ' id="modal3" data-backdrop="false">
+                            <div  class="modal-dialog">
+                                <div class='modal-content'>
+                                    <!--modal header-->
+                                    <div class='btn-dark modal-header'>
+                                        <h3 style="font-size:20px;" class="text-white modal-title">LIVE PLATFORM SOON - $SHINA</h3>
+                                        <a type="button" style="color:red" class='close' data-dismiss="modal">&times;</a>
+                                    </div>
+                                    <!--modal body-->
+                                    <div class="modal-body">
+                                        <p class="font-weight-bold">Staking - High APY - Borrow - Vote</p>
+                                        <img style="width:20%" src="07/Shinariumapp.png">
+                                    </div>
+                                    <!--modal footer-->
+                                    <div class='d-md-none modal-footer'>
+                                        <a type="button" style="color:red" class="btn btn-dark" data-dismiss="modal">Close</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<!--end of modal and card section-->
+    <!-- START SECTION ABOUT US -->
+
+    <style>
+        .small_pb h2{
+            color: #20126F;
+        }
+        .small_pb p{
+            color: #000000;
+        }
+    </style>
+
+    <section id="about" class="small_pt small_pb">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="title_light">
+                        <span>Vision 2023</span>
+                        <h2>Blockchain without Limits</h2>
+                        <p>Shinarium is the first EVM-Compartible blockchain made for business with a complete use-case in different platforms, the token is required either in the NFT Marketplace, Decentralized exchange (DEX), Centralized exchange, Mobile apps, mobile browser and Musicverse. </p>
+                        <p>Mobile application acquisitions and sales could provide a way to earn more liquidity, strategical buy-back and burn of the smart chain token.</p>
+                    </div>
+                
+                </div>
+                
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="res_sm_mt_30">
+                        <img src="07/Group 1786.png" alt="aboutimg" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="number-count hue-shift">
+                <div class="number">
+                    <h1>100k+</h1>
+                    <p>Transactions</p>
+                </div>
+                <div class="number">
+                    <h1>10k+</h1>
+                    <p>Community Users</p>
+                </div>
+            </div>
+
+            <div class="row align-items-center margin-top">
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="title_light">
+                        <span>Largest real-world use-cases</span>
+                        <h2>Onboarding a billion+ dApps</h2>
+                        <p>Shinarium is a layer 1 scaling to layer 5. Under 1-second transaction finality and above 20,000 TPS, . Build your dApps, Fiat, metaverse, DEX, and DeFi projects on Shinarium fast chain. </p>
+                        <p>A debit card. Friends, SocialFi, Chat, Musicverse, GameFi and Videoverse. We re-invented blockchain to enable you enjoy highly scalable, interoperability, third-party integrations, and infrastructure. </p>
+                    </div> 
+                    <a href="https://shinarium.com/token.html" class="btn btn-default page-scroll animation mb-2" data-animation="fadeInUp" data-animation-delay="0.3s">$SHINA Token <i class="ion-ios-arrow-thin-right"></i></a> 
+                </div>
+                
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="res_sm_mt_30">
+                        <img src="07/Researchverse.png" alt="aboutimg" />
+                    </div>
+                </div>
+            </div>
+            <div class="divider large_divider"></div>
+            <div class="row text-center">
+                <div class="col-lg-8 col-md-12 offset-lg-2">
+                    <div class="title_light">
+                        <span>Why Shinarium Fast Chain</span>
+                        <h2>Users first, Speed, Security, Low fees.</h2>
+                        <p>Shinascan. Shinarium network explorer ; Shinarium bridge ; Shinarium Projects ; Musicverse ; Shinarium Wallet ; DEX ; CEX ; NFT Marketplace ; Multiverse ; Mobile Apps</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row text-center small_space benefit_wrap">
+                <div class="col-lg-2 col-md-4 col-6">
+
+                    
+                    <div class="benefit_box short-box" >
+                        <img src="07/Security 2.svg" alt="secure" class="size" />
+                        <h6>Security</h6>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="benefit_box">
+                        <img src="07/Entertainment.svg" alt="token" class="size" />
+                        <h6>Musicverse</h6>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+
+                    
+                    <div class="benefit_box short-box" >
+                        <img src="07/Marketplaces.svg" alt="secure" class="size" />
+                        <h6>NFT</h6>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="benefit_box">
+                        <img src="07/Governance.svg" alt="token" class="size" />
+                        <h6>Governance</h6>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+
+                    
+                    <div class="benefit_box short-box" >
+                        <img src="07/Reliability 2 (1).svg" alt="secure" class="size" />
+                        <h6>Reliability</h6>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="benefit_box">
+                        <img src="07/Grants-and-Philanthropy.svg" alt="token" class="size" />
+                        <h6>Grants</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+       <!-- END SECTION ABOUT US -->
+
+    <!-- START SECTION TOKEN -->
+
+    <section id="how_it_work" class="how_work" data-parallax="scroll" data-image-src="">
+
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <h1 class="mbr-section-title mbr-fonts-style"><strong>Shinarium Smart Chain Solutions.</strong><br><strong></strong></h1>
+            <p class="mbr-text mbr-fonts-style">Shinarium is an industry-leader in smart contract development, with the support of a great list of partners and investors we are glad to be releasing a great list of DApps, mobile applications and EVM-Compartible blockchain.</p>
+           
+          
+                <img src="picture/tick.webp" alt=""> &nbsp; Enjoy the lowest gas fee ever, highly scalable. </img>
+                            <br>
+                <img src="picture/tick.webp" alt=""> &nbsp; 1,000 times security, EVM-Compartible. </img>
+                        <br>
+                <img src="picture/tick.webp" alt=""> &nbsp; The fastest and most powerful smart chain. </img>
+
+                
+            </div>
+                     <div class="col-lg-4 col-md-12 col-sm-12">
+                        <h1 class="mbr-section-title mbr-fonts-style"><strong>Fastest growing Ecosystem.</strong><br><strong></strong></h1>
+                <p class="mbr-text mbr-fonts-style">Shinarium has a large perks that ensures transaction fee remains as low as possible. With a fast growing ecosystem our Max-nodes ensures gas fees remains lower, evolutionalizing the blockchain industry.</p>
+               
+              
+                    <img src="picture/tick.webp" alt=""> &nbsp; All transactions fee are paid with $Shina. </img>
+                                <br>
+                    <img src="picture/tick.webp" alt=""> &nbsp; Take advantage of exclusive support, partnership, and more programs. </img>
+                            <br>
+                    <img src="picture/tick.webp" alt=""> &nbsp; Earn high APY, Unlock liquidity, Compounding rewards. </img>
+    
+                    
+                </div>
+
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                    <h1 class="mbr-section-title mbr-fonts-style"><strong>Blockchain for Business.</strong><br><strong></strong></h1>
+            <p class="mbr-text mbr-fonts-style">Shinarium is a decentralized EVM-Compartible smart chain built to enable scalable TPS, user-friendly mobile and blockchain application. Shinarium is the fastest growing blockchain with business focused developments.</p>
+           
+          
+                <img src="picture/tick.webp" alt=""> &nbsp; Decentralized Exchanges (DEX) </img>
+                            <br>
+                <img src="picture/tick.webp" alt=""> &nbsp; NFT Marketplace, Musicverse, GameFi and more. </img>
+                        <br>
+                <img src="picture/tick.webp" alt=""> &nbsp; Metaverse, dApps, Mobile apps. </img>
+
+                
+            </div>
+        </div>
+        <div class="shape shap1"></div>
+    </section>
+    
+    <!-- END SECTION TOKEN -->
+
+    <section class="client_logo">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <div class="title_dark">
+                        <span class="animation" data-animation="fadeInUp" data-animation-delay="0.1s">COMING TO SHINARIUM SMART CHAIN</span>
+                        <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center text_md_center">
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="" >
+                            <img src="07/1662079060450.png" alt="client_logo1"  />
+
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/cream-finance-500.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <!-- hhhsxhhhx -->
+
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/cb-logo-color_eTMorxlcjz.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/ceramic-500.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href=""><img src="07/Injective-Protocol-500.png" alt="client_logo2" />
+                        
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/NReceotN.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/getblock-primary-logo.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/Numbers_Side By Side Black.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">
+                        <a href="">
+                            <img src="07/logo full dark.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">
+                        <a href="">
+                            <img src="07/orion-protocol-500.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.5s">
+                        <a href="">
+                            <img src="07/souni.a51f1fd8.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.6s">
+                        <a href="">
+                            <img src="07/Black_hor.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                    <br>                   
+                    <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/zelcore_wallet.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.5s">
+                        <a href="">
+                            <img src="07/Unilend-logo.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">
+                        <a href="">
+                            <img src="07/LinearFinance-500.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">
+                        <a href="">
+                            <img src="07/Logo-tree-768x164.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.5s">
+                        <a href="">
+                            <img src="07/logo@2x.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.6s">
+                        <a href="">
+                            <img src="07/1662078299596.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+
+
+        <div class="rounded_shape light_rounded_shape1"></div>
+    </section>
+
+
+        <section class="client_logo">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <div class="title_dark">
+                        <span class="animation" data-animation="fadeInUp" data-animation-delay="0.1s">Upcoming Exchanges</span>
+                        <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s"></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center text_md_center">
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="www.uniswap.com" >
+                            <img src="07/logo_binance_n.png" alt="client_logo1"  />
+
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/logo_coinbase_n.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <!-- hhhsxhhhx -->
+
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/logo_gate_n.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/logo_hotbit_n.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href=""><img src="07/logo_upbit_n.png" alt="client_logo2" />
+                        
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">
+                        <a href="">
+                            <img src="07/logo.af9bfa2.png" alt="client_logo2" />
+                        </a>
+                    </div>
+                </div>
+                
+                
+            </div>
+            
+        </div>
+
+        
+        <div class="rounded_shape light_rounded_shape1"></div>
+    </section>
+
+
+    <!-- END CLIENTS SECTION -->
+
+    <!-- START SECTION TIMELINE & MOBILE APP -->
+    <section id="road_map" class="section_light_bg">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-lg-8 col-md-12 offset-lg-2">
+                    <div class="title_dark">
+                        <span class="animation" data-animation="fadeInUp" data-animation-delay="0.1s">Road Map</span>
+                        <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Shinarium Smart Chain</h2>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="roadmap owl-carousel small_space animation" data-animation="fadeInUp" data-animation-delay="0.4s">
+                <div class="item">
+                    <div class="roadmap_box rd_complete">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2020 Q4</h6>
+                            <p>- Shinarium Planning and development</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box rd_complete">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2021 Q1</h6>
+                            <p>- Shinarium Musicverse Alpha Test 1.0 launched.</p>
+                            <p>- Planning for EVM-Compartible blockchain.</p>
+                            <p>- 5M Developer Buildverse Growth Fund & 300M Web3 Scalefast</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box rd_complete">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2022 Q2</h6>
+                            <p>- Shinarium Partnership</p>
+                            <p>- 1st Marketing campaign for Shinarium</p>
+                            <p>- Shinarium storage scaling</p>
+                            <p>- Multi-block cross-layer sharding transactions</p>
+                            <p>- CryptEx CEX, Foodswap DEX & Cross-chain (NFT) Bridge planning</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box rd_complete">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2022 Q3</h6>
+                            <p>- Shinarium Documentation Update</p>
+                            <p>- Prototype & Private Testnet Launched</p>
+                            <p>- Shinarium Improvement Proposals (SIPs launched)</p>
+                            <p>- NFT avatar and NFTCards ready</p>
+                            <p>- Multi-block cross-layer sharding transactions</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box rd_complete">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2022 Q4</h6>
+                            <p>- 2nd Marketing campaign for Shinarium</p>
+                            <p>- Shinarium EIP49877 implementation testing</p>
+                            <p>- Shinarium infinity nodes 1.0 test</p>
+                            <p>- Private Testnet v3.1 & Public Testnet release</p>
+                            <p>- Airdrop & Strategic Marketing</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="roadmap_box">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>January 2023</h6>
+                            <p>Exchange Listings at:</p>
+
+                             <p>- Pancakswap</p>
+                             <p>- Bounce Finance</p>
+                             <p>- Beta testing of all projects.</p>
+                             <p>- Public testing of all projects and earn reward .</p>
+                             <p>- Launch of the first Shinarium DeFi platform</p>
+                             <p>- Website Upgrade</p>
+
+
+
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>Listing on more CMC Exchange</h6>
+                            <p>- Binance<p>
+                            <p>- Huobi Global<p>
+                            <p>- Coinbase<p>
+                            <p>- KuCoin<p>
+                            <p>- 1inch Exchange<p>
+                            <p>- Coingecko</p>
+                            <p>- Coinmarketcap</p>
+                            <p>- Coincodex</p>
+                            <p>- Coinpaprika</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2023 Q1</h6>
+                             <p>- Launch of Decentralized Exchange (DEX), CEX and NFT marketplace </p>
+                             <p>- Launch of the staking platform and mobile apps. </p>
+                             <p>- 1B+ dApp capacity on Shina Wallet</p>
+                             <p>- Launch of Metaverse, Gameverse, socialFi, Multiverse.</p>
+                             <p>- 3rd Marketing Campaign for Shinarium Smart Chain</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2023 Q2</h6>
+                            <p>- 4th Marketing Campaign for Shinarium Smart Chain</p>
+                            <p>- Shina Wallet & Shina DeFi Extension Launch</p>
+                            <p>- Validators will be able to use session keys.</p>
+                            <p>- Advancing to the next stage of the project.</p>
+                            <p>- Genesis and Shina Studios creations</p>
+                            <p>- Cross-chain Bridge, Shina VR launch</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="roadmap_box">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2023 Q3</h6>
+                            <p>- Shina mobile chromium browser with reward wallet</p>
+                            <p>- Economic & Shinarium DAO Governance Model</p>
+                            <p>- Growing our strategic partnership</p>
+                            <p>- Launching Shina Pay & Multiverse socialFi chain</p>
+                            <p>- Etherscan integration with ShinaScan</p>
+                        </div>
+                    </div>
+                </div>
+            <div class="item">
+                    <div class="roadmap_box">
+                        <div class="roadmap_inner">
+                            <div class="roadmap_icon icon_gradient_box"></div>
+                            <h6>2023 Q4</h6>
+                            <p>- 5th Marketing Campaign for Shinarium Smart Chain</p>
+                            <p>- Migrating to layer-5 blockchain, a 1000x faster and safer</p>
+                            <p>- Scaling the Shinaverse and Multiverse ecosystem</p>
+                            <p>- Parachain development and advanced security</p>
+                            <p>- Roadmap Update</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row align-items-center margin-top">
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="title_light">
+                        <span>Future of web3</span>
+                        <h2>Scaling Interoperable Solutions</h2>
+                        <p>The Shinarium network is currently in limited availability as we work towards general availability. Increasing the transactions per second (TPS) to a 1M+ and total capacity of the network to achieve linear scaling and ensure low transaction fees even as the usage grows. </p>
+                        <img src="picture/tick.webp" alt=""> &nbsp; We are leading the way for a advanced Web 3 functions, ecosystem. </img>
+                                <br>
+                    <img src="picture/tick.webp" alt=""> &nbsp; Enabling a productive, innovative, and cost-efficient environment for DeFi development. </img>
+
+                    </div>
+                    <a href="https://docs.shinarium.com/developer-guide-on-shinarium/developer-overview/network-faucet" class="btn btn-default page-scroll animation mb-2" data-animation="fadeInUp" data-animation-delay="0.3s">Faucet <i class="ion-ios-arrow-thin-right"></i></a>
+                </div>
+                
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="res_sm_mt_30">
+                        <img src="07/code-snippet.png" alt="aboutimg" />
+                    </div>
+                </div>
+            </div>
+
+            
+            <div id="mobileapp" class="mobileapp text_md_center">
+                <div class="divider large_divider"></div>
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-md-12 col-sm-12">
+                        <div class="title_dark">
+                            <span class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Shinarium Smart Chain App</span>
+                            <h2 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Download Mobile App Soon</h2>
+                            
+                            <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Shinarium smart chain will be built to scale over 1B+ decentralized app performance, the difference is clear.
+                            </p>
+                        </div>
+                        <div class="animation" data-animation="fadeInUp" data-animation-delay="0.5s">
+                            <a href="#" class="btn btn-default"><span class="ion-social-android"></span>Google Store <i class="ion-ios-arrow-thin-right"></i></a>
+                            <a href="#" class="btn btn-default"><span class="ion-social-apple"></span>Apple Store <i class="ion-ios-arrow-thin-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-sm-12 text-center">
+                        <div class="res_md_mt_50 res_sm_mt_30 animation" data-animation="fadeInRight" data-animation-delay="0.1s">
+                            <img src="07/Group 1694.png" alt="mobile" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="background-image:url('assets/images/wave.png');" class="section_wave2"></div>
+    </section>
+    <!-- END SECTION TIMELINE & MOBILE APP -->
+
+
+
+
+    <!-- START CLIENTS SECTION -->
+
+    <section class="bg_black_dark client_logo">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <div class="title_light">
+                        <span>Partners</span>
+                        <h2>Investors</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center text_md_center">
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div>
+                        <img src="07/UNIC-header-logo-white-mobile-retina.png" alt="client_logo1" />
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div>
+                        <img src="07/CBC-Logo-Light.png" alt="client_logo2" />
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div>
+                        <img src="07/BGA-logo-768x315.png" alt="client_logo3" />
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div>
+                        <img src="07/bayc-logo (1).png" alt="client_logo4" />
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div>
+                        <img src="07/unicus.png" alt="client_logo5" />
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-6">
+                    <div>
+                        <img src="07/image (5).webp" alt="client_logo6" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="rounded_shape light_rounded_shape3"></div>
+    </section>                   
+    
+
+    <!-- START FOOTER SECTION -->
+    <footer>
+        <div class="top_footer bg_black_dark text_md_center" style="background: white;">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-6 col-sm-12 res_lg_mb_50 res_sm_mb_40">
+                        <h4 class="footer_title">Social Media</h4>
+                        <ul class="list_none footer_social">
+                            <li><a href="https://www.linkedin.com/company/shinarium"><i class="ion-social-linkedin"></i></a></li>
+                            <li><a href="https://twitter.com/shinariumlab"><i class="ion-social-twitter"></i></a></li>
+                            <li><a href="https://github.com/Shinarium"><i class="ion-social-github"></i></a></li>
+                            <li><a href="https://instagram.com/shinariumlab"><i class="ion-social-instagram-outline"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-xl-6 col-lg-6 col-sm-12 res_lg_mb_50 res_sm_mb_40">
+                        <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+                        
+                            <div class="newsletter_form large_space">
+                                
+                                <h6 class="animation footer_title" style="font-size:15px" data-animation="fadeInUp" data-animation-delay="0.2s" >careers@shinarium.com</h6>
+                                <h6 class="animation footer_title" style="font-size:15px" data-animation="fadeInUp" data-animation-delay="0.2s" >media@shinarium.com</h6>
+                                <h6 class="animation footer_title" style="font-size:15px" data-animation="fadeInUp" data-animation-delay="0.2s" >contactus@shinarium.com</h6>
+                                
+                            </div>
+                    
+                        </div>
+
+                    </div>
+
+                    <div class="col-xl-3 col-lg-12 col-sm-12">
+                        <h4 class="footer_title">Quick Links</h4>
+                        
+
+                        <ul class="list_none footer_link">
+                            <li><a href="https://docs.shinarium.com/welcome-to-shinarium-whitepaper/about-shinarium">About</a></li>
+                            <li><a href="https://docs.shinarium.com/links/team">Team</a></li>
+                            <li><a href="https://docs.shinarium.com/ecosystem/tools-and-resources/partners">Partners</a></li>
+                            <li><a href="https://docs.shinarium.com/welcome-to-shinarium-whitepaper/what-is-shinarium-chain">Whitepaper</a></li>
+                            <li><a href="https://docs.shinarium.com/token/tokenomics-overview/about-usdshina-and-usdtrack-tokens">Tokens</a></li>
+                            <li><a href="https://docs.shinarium.com/ecosystem/ecosystem-overview/shinascan">Explorer</a></li>
+                            <li><a href="https://docs.shinarium.com/ecosystem/ecosystem-overview">Ecosystem</a></li>
+                            <li><a href="https://docs.shinarium.com/links/contacts">Contact</a></li>
+                            <li><a href="https://docs.shinarium.com/welcome-to-shinarium-whitepaper/getting-started">Get Started</a></li>
+                            <li><a href="https://docs.shinarium.com/">Documentation</a></li>
+                            <li><a href="https://docs.shinarium.com/welcome-to-shinarium-whitepaper/audits">Audit</a></li>
+                            <li><a href="https://docs.shinarium.com/ecosystem/exchanges/shinaswap">Shinaswap</a></li>
+                            <li><a href="https://docs.shinarium.com/links/faq">FAQ</a></li>
+                            <li><a href="https://docs.shinarium.com/ecosystem/ecosystem-overview/nft-marketplace">NFT</a></li>
+                        </ul>
+                           </div>
+
+                        <!-- second.... -->
+
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="rounded_shape light_rounded_shape2"></div>
+        </div>
+        <div class="bottom_footer staggered-animation-wrap">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p class="copyright staggered-animation" data-animation="fadeInLeft" data-animation-delay="0.1s">Copyright © 2022 Shinarium Lab. All Rights Reserved.</p>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="list_none footer_menu staggered-animation" data-animation="fadeInRight" data-animation-delay="0.2s">
+                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Terms & Conditions</a></li>
+                            <li><a href="#">Disclaimer</a></li>
+                            <li><a href="#">Cookie Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- END FOOTER SECTION -->
+
+    <a href="#" class="scrollup btn-default animation" data-animation="zoomIn" data-animation-delay="0.1s" style="display: none;"><i class="ion-ios-arrow-up"></i></a>
+
+    <!-- Latest jQuery -->
+    <script src="assets/js/jquery-1.12.4.min.js"></script>
+    <!-- Latest compiled and minified Bootstrap -->
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <!-- owl-carousel min js  -->
+    <script src="assets/owlcarousel/js/owl.carousel.min.js"></script>
+    <!-- magnific-popup min js  -->
+    <script src="assets/js/magnific-popup.min.js"></script>
+    <!-- waypoints min js  -->
+    <script src="assets/js/waypoints.min.js"></script>
+    <!-- parallax js  -->
+    <script src="assets/js/parallax.js"></script>
+    <!-- countdown js  -->
+    <script src="assets/js/jquery.countdown.min.js"></script>
+    <!-- particles min js  -->
+    <script src="assets/js/particles.min.js"></script>
+    <!-- scripts js -->
+    <script src="assets/js/scripts.js"></script>
+
+</body>
+
+</html>
